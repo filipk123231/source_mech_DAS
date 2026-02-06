@@ -1,0 +1,1 @@
+Pogledati run.ipynb za primjer pokretanja. Potrebno je pozvati funkciju get_source_mech.get_source_mech(). Pogledati opis funkcije get_source_mech() za popis parametara i izlaza. Pokrenuti iz istog foldera ili dodati folder u path.
